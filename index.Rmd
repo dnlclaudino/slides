@@ -1,5 +1,5 @@
 --- 
-title: "Bookdown de NOME-PRODUTO"
+title: "Bookdown Resumo dos Slides"
 author: "Daniel Claudino"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -18,39 +18,19 @@ always_allow_html: true
 
 # Apresentação
 
-<center><h2>Bookdown dos(as) NOME-DO-PRODUTO</h2></center>
+<center><h2>Bookdown Resumo dos Slides das Disciplinas</h2></center>
 
-```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="-"}
+```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="Autor: Daniel Claudino"}
 knitr::include_graphics("imagens/FOTO-PERFIL-DANIEL-CLAUDINO-2020.png")
 ```
 
-* Neste bookdown pode estar contido qualquer dos tipos de produtos relacionados abaixo. Cada tipo de produto estará relacionado a uma ou mais disciplinas, desde o 1º até o 10º período do curso de Bacharelado em Psicologia. Disponibilizarei meu material, mas poderei disponibilizar material de outros colegas de sala, caso rececba autorização prévia deles.
-  * Notas de Aula
-  * Resumos de capítulos de livros;
-  * Resumos de apresentações(slides) da disciplina;
-  * Minhas apresentações(slides);
-    * Audience Q&A (Permite que o público das apresentação envie perguntas para o apresntador)
-    * Live Polls (Permite que o público das apresntações realize votações sobre os temas apresentados)
-    * Quiz (Permite que o público das apresentações participe de competições integrando-se e assimilando melhor os temas apresentados)
-  * Exercícios (elaborados/disponibilizados pelos professores, respondidos ou não em sala);
-  * Questionários para as provas;
-  * Formulários de pesquisa (Google Forms)
-    * Elaborados por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Coletas de dados
-    * Realizadas por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina; dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Planilhas Eletrônicas
-    * Elaborados por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Filmes, Documentários e outros vídeos
-    * Recomendados pelos professores, pelos colegas ou por mim;
-  * Jogos de aprendizado criados
-    * (Kahoots / Site principal: kahoot.com / Login do jogador: kahoot.it)
-  * Outros materiais elaborados e disponibilizados pelos professores e por mim.
+Neste bookdown estarão conditos os resumos dos slides das disciplinas do 1º até o 10º período do curso de Bacharelado em Psicologia.
 
 ## Controle de Versão
 
 |Versão| Data / Hora | Colaborador | Descrição da Contribuição
 |:--|:--|:--|:--|
-| 0.1 | dd/mm/aaaa xxh00 | [Daniel Claudino](https://wa.me/5583988853815) | Versão inicial do documento|
+| 0.1 | 01/11/2022 09h41 | [Daniel Claudino](https://wa.me/5583988853815) | Versão inicial do documento|
 
 
 ## Referências Bibliográficas
